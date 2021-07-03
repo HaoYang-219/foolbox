@@ -1,5 +1,5 @@
 from .base import Attack  # noqa: F401
-
+#
 # FixedEpsilonAttack subclasses
 from .contrast import L2ContrastReductionAttack  # noqa: F401
 from .virtual_adversarial_attack import VirtualAdversarialAttack  # noqa: F401
